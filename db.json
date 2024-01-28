@@ -1,0 +1,19 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Bánh ngọt",
+      "price": 180000
+    },
+    {
+      "id": "2",
+      "name": "Bánh mặn",
+      "price": 280000
+    },
+    {
+      "id": "bed9",
+      "name": "eeee",
+      "price": "1111"
+    }
+  ]
+}
